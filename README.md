@@ -38,4 +38,4 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
 
 Your project folder will need to be submitted in 2 different ways.  You will need to submit a zipped/compressed folder titled "lab1" to Canvas by the due and and time listed.  You will also need to submit your assignment folder to the issued GitHub repository for lab 1.  Click on the link below to accept your lab 1 repository.  Please include all images or files that may accompany your lab within the project folder.
 
-### Github Repository Link - 
+### Github Repository Link - https://classroom.github.com/a/jnA3Zw26
