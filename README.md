@@ -35,9 +35,9 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
   background-color: #474747;
 ```
 
-9.  Save all files and validate your code via W3 validation service and fix all errors and warnings.
+9.  Save all files and validate your code via W3 validation service and fix all errors and warnings. [W3C Validation Link](https://validator.w3.org/)
 
-10.  Publish your work via the submission guidelines below. [W3C Validation Link](https://validator.w3.org/)
+10.  Publish your work via the submission guidelines below. 
 
 
 ## Submission and Publishing your lab
