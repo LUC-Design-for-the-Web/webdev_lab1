@@ -1,6 +1,6 @@
 # Lab 1 - Twin Cities Ice Cream 
 
-Listed below is an image of the completed interface for Twin Cities Ice Cream.  Download the zip file and complete the 10 steps below to achieve the desired design and layout of Twin Cities Ice Cream homepage.  This lab will focus on implement the basic concepts of HTML and CSS.
+Listed below is an image of the completed interface for Twin Cities Ice Cream.  Using files in this repository, download and complete the 10 steps below to achieve the desired design and layout of Twin Cities Ice Cream homepage.  This lab will focus on implement the basic concepts of HTML and CSS.
 
 ![alt text](https://instructorc.github.io/site/slides/webdev/images/tw_ice_cream.PNG)
 ## Steps:
