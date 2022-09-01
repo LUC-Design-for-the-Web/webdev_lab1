@@ -5,7 +5,7 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
 ![alt text](https://instructorc.github.io/site/slides/webdev/images/tw_ice_cream.PNG)
 ## Steps:
 
-1.  Download the lab1.zip project folder from Sakai and open folder in browser.  Open the lab1.html file and add your name and completion date of completion as a comment in the lab1.html document.
+1.  Download the lab1.zip project folder or pull the code down using git commands from GitHub and open folder in browser.  Open the lab1.html file and add your name and completion date of completion as a comment in the lab1.html document.
 2.  Add a link tag to your document that provides the relative file to the external “style.css” document.  
 
 3.  Add the 5 required meta tags discussed in class/lecture video to the HTML document and change the content attribute to reflect the site information for keywords, description and author meta tags.
