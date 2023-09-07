@@ -6,16 +6,16 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
 ## Steps:
 
 1.  Download the lab1.zip project folder or pull the code down using git commands from GitHub and open folder in browser.  Open the lab1.html file and add your name and completion date of completion as a comment in the lab1.html document.
-2.  Add a link tag to your document that provides the relative file to the external “style.css” document.  
+2.  Add a link tag to your document that references the “style.css” document from within your folder structure. 
 
-3.  Add the 5 required meta tags discussed in class/lecture video to the HTML document and change the content attribute to reflect the site information for keywords, description and author meta tags.
+3.  Add the 5 required meta tags discussed in class/lecture video to the HTML document.  Alter the content attribute for the keywords, description and author meta tags to reflect the content of the webpage.
 
-4.  Locate the html div tag that has columnstruct as a class attribute and add a paragraph element describing your favorite ice cream shop and what you like about it.  If you don't like ice cream, use this paragraph to tell me why.
+4.  Locate the html div tag that has columnstruct as a class attribute and add a child paragraph tag describing your favorite ice cream shop and what you like about it.  If you don't like ice cream, use this paragraph to tell me why.
 ```html 
 <!--The tag you need to identify-->
   <div class="columnstruct">
 ```
-5.  Add in-line css html div tag that has columnstruct as a class attribute and input the four declarations listed below.  Hint: style attribute should be placed in opening div tag
+5.  Add **in-line** css to the html div tag that has columnstruct as a class attribute and input the four declarations listed below.  **Hint: style attribute should be placed in opening div tag**
 ```css
   font-family: 'Amatic SC', cursive;
   color: white;
@@ -23,7 +23,7 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
   font-size: 2vw;
  ```
 
-6.  Add an opening and closing footer element to the document.  Make sure to add the footer tag in the appropriate place mentioned in class/lecture video.  Should come prior to the closing body tag.  
+6.  Add an opening and closing footer tag to the document.  Make sure to add the footer tag in the appropriate place mentioned in class/lecture video.  Should come prior to the closing body tag.  
 
 7.  Add an id attribute to the opening html footer tag you just created.   The value for the id attribute should be "bottom_footer"
 
@@ -42,5 +42,5 @@ Listed below is an image of the completed interface for Twin Cities Ice Cream.  
 
 ## Submission and Publishing your lab
 
-Your project folder will need to be submit your work to the assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up.  Make sure you receive confirmation from Sakai that your assignment has been submitted.
+You will need to push up or copy the latest changes to your assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up.  Make sure you receive confirmation from Sakai that your assignment has been submitted.
 
